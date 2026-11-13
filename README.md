@@ -27,7 +27,7 @@ Em breve estarei publicando projetos para praticar e demonstrar meus conheciment
 
 ## 📫 Contato
 
-- LinkedIn: Seu LinkedIn
+- LinkedIn: --
 - E-mail: sophiabertucci9@gmail.com
 
 ---
