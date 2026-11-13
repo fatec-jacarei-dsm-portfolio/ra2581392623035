@@ -25,14 +25,10 @@ Em breve estarei adicionando meus projetos desenvolvidos durante a graduação.
 ### 📌 Projetos Pessoais
 Em breve estarei publicando projetos para praticar e demonstrar meus conhecimentos.
 
-## 📊 Estatísticas GitHub
-
-https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight
-
 ## 📫 Contato
 
 - LinkedIn: Seu LinkedIn
-- E-mail: seuemail@email.com
+- E-mail: sophiabertucci9@gmail.com
 
 ---
 
